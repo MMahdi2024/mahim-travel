@@ -83,18 +83,7 @@ body {
 
 }
 
-.banner {
-    text-align: center;
-    background-image: url(/images/Group\ 13\ \(1\)\ \(1\).png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 600px;
-    align-items: center;
-    justify-content: center;
-    margin-left: 200px;
 
-
-}
 
 .popular-section {
     display: flex;
@@ -144,13 +133,7 @@ body {
 
 }
 
-div.background {
-    background: url(/images/Group\ 39.png);
-    background-size: cover;
-    height: 500px;
-    border: 2px solid none;
 
-}
 
 div.transbox {
     background-color: #ffffff;
